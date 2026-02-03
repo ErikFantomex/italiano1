@@ -6,8 +6,8 @@
 <details>
 <summary>Ver dictado aquí (imágenes)</summary>
 
-![Dictado página 1](./docs/italina_dictado/page-01.png)
-![Dictado página 2](./docs/italina_dictado/page-02.png)
+![Dictado página 1](./italina_dictado.pdf))
+![Dictado página 2](./italina_dictado.pdf))
 
 </details>
 
@@ -19,6 +19,6 @@
 <details>
 <summary>👀 Ver tabla aquí (imagen)</summary>
 
-![Tabla italiano](./docs/tabla_italiano/page-01.png)
+![Tabla italiano](./tabla_italiano.pdf))
 
 </details>
