@@ -1,24 +1,24 @@
 # Hola este es mi repositorio personal para el trabajo de la materia Italiano 1
 
-Este repositorio contiene materiales y actividades de la materia **Italiano 1**.
+## 📄 Dictado (6-20)
+📌 PDF completo: [italina_dictado.pdf](./italina_dictado.pdf)
 
-## 📂 Archivos del repositorio
-- **Dictado del 6-20:** [`italina_dictado.pdf`](./italina_dictado.pdf)
-- **Tabla de italiano:** [`tabla_italiano.pdf`](./tabla_italiano.pdf)
+<details>
+<summary>Ver dictado aquí (imágenes)</summary>
 
----
+![Dictado página 1](./docs/italina_dictado/page-01.png)
+![Dictado página 2](./docs/italina_dictado/page-02.png)
 
-## 📝 Dictado (6-20)
-> (Aquí pegaré el texto extraído del PDF `italina_dictado.pdf`)
+</details>
 
 ---
 
 ## 📊 Tabla de italiano
-> (Aquí pegaré la tabla/estructura extraída del PDF `tabla_italiano.pdf`)
+📌 PDF completo: [tabla_italiano.pdf](./tabla_italiano.pdf)
 
----
+<details>
+<summary>👀 Ver tabla aquí (imagen)</summary>
 
-## ✅ Cómo usar este repositorio
-1. Abre los PDFs desde la sección de archivos.
-2. Revisa el dictado y la tabla.
-3. Si necesitas estudiar, puedes copiar el contenido del README (si está transcrito) para repasarlo más fácil.
+![Tabla italiano](./docs/tabla_italiano/page-01.png)
+
+</details>
